@@ -1,4 +1,4 @@
-name: "Collect IPs"
+name: "TVC"
 
 on:
   workflow_dispatch:
