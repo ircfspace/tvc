@@ -10,7 +10,7 @@
     ];
     $getList = file_get_contents('https://raw.githubusercontent.com/yebekhe/TVC/main/api/allConfigs.json?v1.'.time());
     $allConfigs = json_decode($getList, true);
-    
+
     $i = 1;
     $list = [];
     foreach($types as $type) {
