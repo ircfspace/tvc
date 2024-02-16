@@ -1,3 +1,7 @@
 trojan://6a407a94-3fda-4946-a48c-2aa1ced31687@sg02.bsawc.shop:51652?security=tls&headerType=none&type=tcp&sni=sg02.bsawc.shop#🇸🇬SG%20|%20trojan%20|%20@V2rayCollectorDonate%20|%2017
 trojan://6a407a94-3fda-4946-a48c-2aa1ced31687@ru01.bsawc.shop:30005?security=tls&headerType=none&type=tcp&sni=ru01.bsawc.shop#🇷🇺RU%20|%20trojan%20|%20@V2rayCollectorDonate%20|%2018
-trojan://telegram-id-privatevpns@52.47.121.117:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR%20|%20trojan%20|%20@PrivateVPNs%20|%202
+trojan://telegram-id-privatevpns@3.10.204.44:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇬🇧GB%20|%20trojan%20|%20@PrivateVPNs%20|%201
+trojan://telegram-id-privatevpns@13.39.9.195:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR%20|%20trojan%20|%20@PrivateVPNs%20|%202
+trojan://telegram-id-privatevpns@52.47.121.117:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR%20|%20trojan%20|%20@PrivateVPNs%20|%203
+trojan://telegram-id-privatevpns@3.76.22.16:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇩🇪DE%20|%20trojan%20|%20@PrivateVPNs%20|%204
+trojan://telegram-id-privatevpns@3.121.149.252:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇩🇪DE%20|%20trojan%20|%20@PrivateVPNs%20|%205
