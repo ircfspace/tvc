@@ -9,3 +9,6 @@ trojan://telegram-id-privatevpns@54.217.249.196:22222?security=tls&alpn=http%2F1
 trojan://telegram-id-privatevpns@13.42.94.177:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇬🇧GB%20|%20trojan%20|%20@PrivateVPNs%20|%2011
 trojan://telegram-id-privatevpns@35.179.86.192:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇬🇧GB%20|%20trojan%20|%20@PrivateVPNs%20|%2012
 trojan://telegram-id-privatevpns@15.188.225.132:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR%20|%20trojan%20|%20@PrivateVPNs%20|%2013
+trojan://telegram-id-privatevpns@15.236.56.56:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR%20|%20trojan%20|%20@PrivateVPNs%20|%2014
+trojan://telegram-id-privatevpns@18.194.222.239:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇩🇪DE%20|%20trojan%20|%20@PrivateVPNs%20|%2015
+trojan://telegram-id-privatevpns@3.122.162.96:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇩🇪DE%20|%20trojan%20|%20@PrivateVPNs%20|%2016
