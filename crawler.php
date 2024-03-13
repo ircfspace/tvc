@@ -7,6 +7,7 @@
         'hy2',
         'trojan',
         'tuic',
+        'vmess',
     ];
     $getList = file_get_contents('https://raw.githubusercontent.com/yebekhe/TVC/main/api/allConfigs.json?v1.'.time());
     $allConfigs = json_decode($getList, true);
