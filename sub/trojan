@@ -1,3 +1,9 @@
+//profile-title: base64:VFJPSkFOIChJUkNGKQ==
+//profile-update-interval: 6
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
+//support-url: https://x.com/ircfspace
+//profile-web-page-url: https://ircf.space
+
 trojan://telegram-id-privatevpns@3.11.105.224:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇬🇧GB%20|%20trojan%20|%20@PrivateVPNs%20|%203
 trojan://telegram-id-privatevpns@35.181.148.202:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR%20|%20trojan%20|%20@PrivateVPNs%20|%204
 trojan://telegram-id-privatevpns@15.236.108.169:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#🇫🇷FR%20|%20trojan%20|%20@PrivateVPNs%20|%205
