@@ -5,7 +5,7 @@ To use this project, simply import the subscription links into your preferred cl
 <br />
 <em>
 Powered by @Yebekhe (<a href="https://github.com/yebekhe/TVC" target="_blank">TVC</a>)
-<em>
+</em>
 <hr />
 
 | SUB         | URL                                                                                    |
