@@ -2,7 +2,7 @@
 
 To use this project, simply import the subscription links into your preferred client. Ensure that your client supports at least SHADOWSOCKS, VLESS, VMESS, TROJAN, TUIC and HYSTERIA2.
 <br />
-Powered by @Yebekhe (TVC)
+Powered by @Yebekhe (<a href="https://github.com/yebekhe/TVC" target="_blank">TVC</a>)
 <hr />
 
 | SUB         | URL                                                                                    |
