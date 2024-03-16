@@ -20,4 +20,3 @@ trojan://telegram-id-privatevpns@13.37.96.26:22222?security=tls&alpn=http%2F1.1&
 trojan://telegram-id-privatevpns@18.197.182.102:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20trojan%20|%20@PrivateVPNs%20|%2016
 trojan://telegram-id-privatevpns@18.157.126.35:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE%20|%20trojan%20|%20@PrivateVPNs%20|%2017
 trojan://telegram-id-directvpn@13.53.67.199:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE%20|%20trojan%20|%20@DirectVPN%20|%203
-trojan://telegram-id-directvpn@54.201.59.59:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US%20|%20trojan%20|%20@DirectVPN%20|%204
