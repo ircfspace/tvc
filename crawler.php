@@ -29,7 +29,7 @@
     }
 
     $z = 1;
-    $mix = "//profile-title: base64:TUlYIChJUkNGKQ==\n";
+    $mix = "//profile-title: base64:TUlYIChBbWlyaW52ZW50b3IyMDEwLUZORVQwMCkg\n";
     $mix .= "//profile-update-interval: 6\n";
     $mix .= "//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0\n";
     $mix .= "//support-url: https://x.com/Amirinventor201\n";
@@ -48,7 +48,7 @@
 
     $html = "";
     foreach($types as $type) {
-        $html .= "//profile-title: base64:".base64_encode(strtoupper($type)." (IRCF)")."\n";
+        $html .= "//profile-title: base64:".base64_encode(strtoupper($type)." (Amirinventor2010-FNET00)")."\n";
         $html .= "//profile-update-interval: 6\n";
         $html .= "//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0\n";
         $html .= "//support-url: https://x.com/Amirinventor201\n";
