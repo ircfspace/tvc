@@ -1,4 +1,4 @@
-name: "TVC"
+name: "TVC-Amirinventor"
 
 on:
   workflow_dispatch:
@@ -31,8 +31,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.email "ircfspace@gmail.com"
-          git config --global user.name "ircfspace"
+          git config --global user.email "Amir.inventor.2010@gmail.com"
+          git config --global user.name "Amirinventor2010"
 
       - name: Commit changes
         run: |
