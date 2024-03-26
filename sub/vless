@@ -25,4 +25,3 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn--join.outline-vpn.cloud:443?sec
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#🇨🇦CA%20|%20vless%20|%20@FreakConfig%20|%200
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?security=tls&encryption=none&host=test43.pages.dev&type=ws&sni=test43.pages.dev#🇨🇦CA%20|%20vless%20|%20@FreakConfig%20|%201
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.79:443?security=tls&encryption=none&host=test30.pages.dev&type=ws&sni=test30.pages.dev#🇨🇦CA%20|%20vless%20|%20@FreakConfig%20|%206
-vless://ffffffff-eeae-4311-b37c-b2a67847fed2@188.114.97.3:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=watashi.free.de.mnhacker.eu.org&fp=chrome&type=ws&sni=watashi.free.de.mnhacker.eu.org#🇳🇱NL%20|%20vless%20|%20@forwardv2ray%20|%204
